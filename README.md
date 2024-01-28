@@ -18,13 +18,13 @@ NOTE: the current state of the project is "proof of concept". Think of it as a s
 
 Available commands:
 
-    $ music play
+    $ music-cli play
 
-    $ music pause
+    $ music-cli pause
 
-    $ music next
+    $ music-cli next
 
-    $ music previous
+    $ music-cli previous
 
 ## Inspired by
 
